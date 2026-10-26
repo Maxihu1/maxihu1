@@ -1,9 +1,0 @@
-{
-  "name": "maxihu1-website",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Maxihu1 website with real sign up / login accounts (no dependencies)",
-  "main": "server.js",
-  "scripts": { "start": "node server.js" },
-  "engines": { "node": ">=22.13" }
-}
